@@ -1,0 +1,6 @@
+{
+  "name": "Energy Audit Laboratory Project Generator",
+  "description": "An interactive workspace for reviewing, customizing, calculating, and exporting a complete academic energy audit and analysis project for a Nigerian mechanical engineering laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
